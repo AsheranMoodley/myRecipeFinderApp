@@ -12,10 +12,10 @@ _______________________________________________
 4. Once in the directory type "expo start"
 5. Once expo starts you can either open in Web browser/ can the QR Code on the expo mobile app/ or run in an emulator
 6. If you run it in the web browser you can do the following to make it look like a mobile
-	-right click on the page then select inspect
-	-on the top left corner of the inspect planner select "Toggle device emulation"
-	-you then have the option to select the device you want to emulate
-	-I suggest using the "Pixel 2 XL" as it has a good screen size but any device will work
+-right click on the page then select inspect
+-on the top left corner of the inspect planner select "Toggle device emulation"
+-you then have the option to select the device you want to emulate
+-I suggest using the "Pixel 2 XL" as it has a good screen size but any device will work
 7. You are then done and can use the app
 8. <IMPORTANT NOTE> The app uses spoonacular api which only allows 150 calls to the endpoint per day
 and since the app makes multiple calls to the endpoint everything you use it, the max calls can be reached after a few uses
